@@ -97,3 +97,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# VSCode
+.vscode/
+# losscurve default output
+save.png
